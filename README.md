@@ -33,6 +33,8 @@ The script will check the Stark Arena website for events happening on the curren
 
 This script uses Gmail's SMTP server to send the email. If you're using 2-Step Verification, you'll need to generate and use an App Password. If you're not using 2-Step Verification, you'll need to allow less secure apps to access your account.
 
+This script could be best utilized by configuring cron job to run it daily.
+
 ## Disclaimer
 
 This script is for educational purposes only. Always respect the terms of use of the website you're scraping.
